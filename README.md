@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Arshia 👋
+- Computer Engineering student
+- Currently learning: C++, Linux
+- Familiar with: JavaScript, HTML, CSS
 
 <!--
 **ArshiaBouzhabadi/ArshiaBouzhabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
