@@ -1,5 +1,5 @@
 ## Hi, I'm Arshia 👋
 - Computer Engineering student
-- Currently learning: C++, Linux, Python, Java
+- Currently learning: C++, Python, Java
 - Familiar with: JavaScript, HTML, CSS
 
